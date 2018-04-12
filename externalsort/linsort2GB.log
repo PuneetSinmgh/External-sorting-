@@ -1,0 +1,6 @@
+Total time taken for sorting 2 GB file in 4 threads using lin sort is
+23
+Records: 20000000
+Checksum: 98923e9cff98ac
+Duplicate keys: 0
+SUCCESS - all records are in order

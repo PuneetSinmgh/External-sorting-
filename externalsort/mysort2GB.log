@@ -1,0 +1,295 @@
+start sorting
+/input/data-2GB.in
+
+input file size:2000000000
+creating chunks
+/input/data-2GB.in
+
+writing in file:1
+
+writing in file:2
+
+writing in file:3
+
+writing in file:4
+
+writing in file:5
+
+writing in file:6
+
+writing in file:7
+
+writing in file:8
+
+writing in file:9
+
+writing in file:10
+
+writing in file:11
+
+writing in file:12
+
+writing in file:13
+
+writing in file:14
+
+writing in file:15
+
+writing in file:16
+
+writing in file:17
+
+writing in file:18
+
+writing in file:19
+
+writing in file:20
+
+writing in file:21
+
+writing in file:22
+
+writing in file:23
+
+writing in file:24
+
+writing in file:25
+
+writing in file:26
+
+writing in file:27
+
+writing in file:28
+
+writing in file:29
+
+writing in file:30
+
+writing in file:31
+
+writing in file:32
+
+writing in file:33
+
+writing in file:34
+
+writing in file:35
+
+writing in file:36
+
+writing in file:37
+
+writing in file:38
+
+writing in file:39
+
+writing in file:40
+
+file sorted written:/tmp/sorted/3.txt
+
+file sorted written:/tmp/sorted/38.txt
+
+file sorted written:/tmp/sorted/9.txt
+
+file sorted written:/tmp/sorted/8.txt
+
+file sorted written:/tmp/sorted/36.txt
+
+file sorted written:/tmp/sorted/21.txt
+
+file sorted written:/tmp/sorted/14.txt
+
+file sorted written:/tmp/sorted/10.txt
+
+file sorted written:/tmp/sorted/23.txt
+
+file sorted written:/tmp/sorted/4.txt
+
+file sorted written:/tmp/sorted/37.txt
+
+file sorted written:/tmp/sorted/34.txt
+
+file sorted written:/tmp/sorted/13.txt
+
+file sorted written:/tmp/sorted/25.txt
+
+file sorted written:/tmp/sorted/28.txt
+
+file sorted written:/tmp/sorted/6.txt
+
+file sorted written:/tmp/sorted/33.txt
+
+file sorted written:/tmp/sorted/32.txt
+
+file sorted written:/tmp/sorted/30.txt
+
+file sorted written:/tmp/sorted/17.txt
+
+file sorted written:/tmp/sorted/31.txt
+
+file sorted written:/tmp/sorted/5.txt
+
+file sorted written:/tmp/sorted/15.txt
+
+file sorted written:/tmp/sorted/11.txt
+
+file sorted written:/tmp/sorted/26.txt
+
+file sorted written:/tmp/sorted/16.txt
+
+file sorted written:/tmp/sorted/29.txt
+
+file sorted written:/tmp/sorted/27.txt
+
+file sorted written:/tmp/sorted/19.txt
+
+file sorted written:/tmp/sorted/40.txt
+
+file sorted written:/tmp/sorted/2.txt
+
+file sorted written:/tmp/sorted/12.txt
+
+file sorted written:/tmp/sorted/7.txt
+
+file sorted written:/tmp/sorted/35.txt
+
+file sorted written:/tmp/sorted/24.txt
+
+file sorted written:/tmp/sorted/22.txt
+
+file sorted written:/tmp/sorted/20.txt
+
+file sorted written:/tmp/sorted/39.txt
+
+file sorted written:/tmp/sorted/18.txt
+
+file sorted written:/tmp/sorted/1.txt
+
+delete sorted :/tmp/unsorted/8.txt
+
+delete sorted :/tmp/unsorted/23.txt
+
+delete sorted :/tmp/unsorted/14.txt
+
+delete sorted :/tmp/unsorted/4.txt
+
+delete sorted :/tmp/unsorted/3.txt
+
+delete sorted :/tmp/unsorted/36.txt
+
+delete sorted :/tmp/unsorted/10.txt
+
+delete sorted :/tmp/unsorted/9.txt
+
+delete sorted :/tmp/unsorted/38.txt
+
+delete sorted :/tmp/unsorted/21.txt
+
+delete sorted :/tmp/unsorted/32.txt
+
+delete sorted :/tmp/unsorted/37.txt
+
+delete sorted :/tmp/unsorted/17.txt
+
+delete sorted :/tmp/unsorted/6.txt
+
+delete sorted :/tmp/unsorted/30.txt
+
+delete sorted :/tmp/unsorted/33.txt
+
+delete sorted :/tmp/unsorted/28.txt
+
+delete sorted :/tmp/unsorted/13.txt
+
+delete sorted :/tmp/unsorted/34.txt
+
+delete sorted :/tmp/unsorted/25.txt
+
+delete sorted :/tmp/unsorted/31.txt
+
+delete sorted :/tmp/unsorted/11.txt
+
+delete sorted :/tmp/unsorted/27.txt
+
+delete sorted :/tmp/unsorted/40.txt
+
+delete sorted :/tmp/unsorted/26.txt
+
+delete sorted :/tmp/unsorted/19.txt
+
+delete sorted :/tmp/unsorted/29.txt
+
+delete sorted :/tmp/unsorted/16.txt
+
+delete sorted :/tmp/unsorted/15.txt
+
+delete sorted :/tmp/unsorted/5.txt
+
+delete sorted :/tmp/unsorted/2.txt
+
+delete sorted :/tmp/unsorted/35.txt
+
+delete sorted :/tmp/unsorted/1.txt
+
+delete sorted :/tmp/unsorted/24.txt
+
+delete sorted :/tmp/unsorted/39.txt
+
+delete sorted :/tmp/unsorted/18.txt
+
+delete sorted :/tmp/unsorted/12.txt
+
+delete sorted :/tmp/unsorted/22.txt
+
+delete sorted :/tmp/unsorted/7.txt
+
+delete sorted :/tmp/unsorted/20.txt
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+Eof
+
+real	1m53.348s
+user	3m45.552s
+sys	0m30.908s
+end sorting
+Records: 20000000
+Checksum: 98923e9cff98ac
+Duplicate keys: 0
+SUCCESS - all records are in order
